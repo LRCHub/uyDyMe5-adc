@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ギフト -メインストーリー Ver-",
+  "base_artist": "ラインクラフト (CV. 小島菜々恵)、フサイチパンドラ (CV. 佳原萌枝)",
+  "createdAt": "2026-03-31T11:17:04.001978Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギフト -メインストーリー Ver-",
+      "artist": "ラインクラフト (CV. 小島菜々恵)、フサイチパンドラ (CV. 佳原萌枝)",
+      "has_synced": false,
+      "path": "select/pl_01_ギフト_-メインストーリー_Ver-_ラインクラフト_(CV._小島菜々恵)、フサイチパンドラ_(CV._佳原萌枝).txt"
+    }
+  ]
+}
